@@ -13,6 +13,8 @@ namespace text_adventure
             string name;
 
             Console.WriteLine("Welcome to Goosebagel's AMAZING Text Adventure.");
+            
+            Console.WriteLine("_______________________________________________");
 
             Console.WriteLine("This is my first one so go easy one me, pls.");
 
