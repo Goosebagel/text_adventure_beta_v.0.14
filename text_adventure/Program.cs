@@ -39,9 +39,11 @@ namespace text_adventure
 
             Console.Clear();
 
-            Console.WriteLine(@"So are you a boy or a girl? 
-           Just type Male or Female,
-           (Hint: It doesn't really matter if your a boy or a girl)");
+            Console.WriteLine("So are you a boy or a girl?");
+
+            Console.WriteLine("Just type Male or Female");
+
+            Console.WriteLine("(Hint: It doesn't really matter if your a boy or a girl)");                    
 
             string gender = Console.ReadLine();
             
